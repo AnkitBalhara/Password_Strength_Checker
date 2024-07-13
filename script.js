@@ -18,7 +18,6 @@ password.oninput =function() {
     }
    });
   }
-  // console.log(point)
   powerPoint.style.backgroundColor=colorPower[point]
   powerPoint.style.width=widthPower[point]
 };
